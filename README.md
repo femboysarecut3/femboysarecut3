@@ -18,10 +18,10 @@ Feel free to check out my work or get in touch:
 ### 🔌 My Plugins
 *Here are some of the Minecraft plugins I've developed:*
 
-*   **[AutoServerUpdater](https://github.com/asmolfemboi/AutoServerUpdater)** - Automatically updates the server to the latest build for your version 
-*   **[LogCleaner](https://github.com/asmolfemboi/LogCleaner)** - Deletes Old Server Logs 
-*   **[Pings](https://github.com/asmolfemboi/Pings)** - Pings just Like on Discord 
-*   **[EntityManager](https://github.com/asmolfemboi/EntityManager)** - Advanced Mob Control with Per World Whitelist/Blacklist System 
+*   **[AutoServerUpdater](https://github.com/femboysarecut3/AutoServerUpdater)** - Automatically updates the server to the latest build for your version 
+*   **[LogCleaner](https://github.com/femboysarecut3/LogCleaner)** - Deletes Old Server Logs 
+*   **[Pings](https://github.com/femboysarecut3/Pings)** - Pings just Like on Discord 
+*   **[EntityManager](https://github.com/femboysarecut3/EntityManager)** - Advanced Mob Control with Per World Whitelist/Blacklist System 
 
 ---
 
@@ -30,10 +30,10 @@ Feel free to check out my work or get in touch:
 
 *   ✨ **[My FemCraft Client](https://modrinth.com/modpack/femcraftclient/)** - My main modpack project on Modrinth.
 *   🗺️ **[Minecraft Maps, Skins and More](https://www.planetminecraft.com/member/femboysarecut3/)** - Custom-built worlds with unique mechanics.
-*   📦 **[Random Exploiting Stuff](https://github.com/asmolfemboi/Exploits)** - Some Random Bullshit i did when i was bored lol
+*   📦 **[Random Exploiting Stuff](https://github.com/femboysarecut3/Exploits)** - Some Random Bullshit i did when i was bored lol
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmolfemboi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=femboysarecut3&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
